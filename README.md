@@ -1,5 +1,11 @@
 # Simple-AI
 Make your own AI
+
+Requirements:
+pip install tensorflow<br>
+pip install keras<br>
+pip install pillow<br>
+
 1. Collecter des données : Vous aurez besoin de nombreuses images de chats et de chiens pour entraîner votre modèle. Vous pouvez utiliser des images trouvées en ligne ou prendre vos propres photos. Assurez-vous d'avoir suffisamment de données pour couvrir une variété de situations et de tailles d'animaux.
 
 2. Pré-traiter les données : Avant de pouvoir utiliser ces images pour entraîner votre modèle, vous devrez peut-être les redimensionner, les recadrer ou les ajuster de diverses manières pour les rendre utilisables.
@@ -16,6 +22,4 @@ Oxford-III Pet Dataset
 Stanford Dogs Dataset
 Caltech-UCSD Birds dataset
 
-pip install tensorflow
-pip install keras
-pip install pillow
+
