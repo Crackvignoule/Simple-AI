@@ -1,17 +1,17 @@
 # Simple-AI
 Make your own AI
 
-=Requirements:=
-<br>
+<h2>Requirements:</h2><br>
 <code>pip install tensorflow</code><br>
 <code>pip install keras</code><br>
 <code>pip install pillow</code><br>
 At most Python 3.7 since tensorflow is not compatible with newer versions (You can use a Conda Virtual Environment)
 
+Usage:<br>
 Use __train.py__ to train a model using a dataset (You need to download one dataset, I used Kaggle cats and dogs dataset from Microsoft to predict cats and dogs)<br>
 Use __predict.py__ to predict<br>
 
-NOTICE: Remember to edit all the files path<br>
+**NOTICE: Remember to edit all the files path<br>
 
 1. Collecter des données : Vous aurez besoin de nombreuses images de chats et de chiens pour entraîner votre modèle. Vous pouvez utiliser des images trouvées en ligne ou prendre vos propres photos. Assurez-vous d'avoir suffisamment de données pour couvrir une variété de situations et de tailles d'animaux.
 
