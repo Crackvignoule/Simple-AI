@@ -5,7 +5,7 @@ Make your own AI
 <code>pip install tensorflow</code><br>
 <code>pip install keras</code><br>
 <code>pip install pillow</code><br>
-__At most Python 3.7__ since tensorflow is not compatible with newer versions (You can use a Conda Virtual Environment)
+__At__ __most__ __Python__ __3.7__ since tensorflow is not compatible with newer versions (You can use a Conda Virtual Environment)
 
 <h2>Usage:</h2>
 Use __train.py__ to train a model using a dataset (You need to download one dataset, I used Kaggle cats and dogs dataset from Microsoft to predict cats and dogs)<br>
