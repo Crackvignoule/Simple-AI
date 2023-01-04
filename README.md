@@ -1,7 +1,8 @@
 # Simple-AI
 Make your own AI
 
-Requirements:<br>
+=Requirements:=
+<br>
 <code>pip install tensorflow</code><br>
 <code>pip install keras</code><br>
 <code>pip install pillow</code><br>
