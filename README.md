@@ -13,7 +13,7 @@ Use __predict.py__ to predict<br>
 
 **NOTICE: Remember to edit all the files path<br>
 
-<details open>
+<details closed>
 <summary>Algorithm in French</summary>
 <br>
 1. Collecter des données : Vous aurez besoin de nombreuses images de chats et de chiens pour entraîner votre modèle. Vous pouvez utiliser des images trouvées en ligne ou prendre vos propres photos. Assurez-vous d'avoir suffisamment de données pour couvrir une variété de situations et de tailles d'animaux.
